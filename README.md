@@ -162,11 +162,9 @@ We welcome contributions from the community! Please read our [Contributing Guide
 4. Push to the branch
 5. Create a Pull Request
 
-## Community 👥
+## Community 👥 （latter...）
 
 - Join our [Discord Server](YOUR_DISCORD_LINK)
-- Follow us on [Twitter](YOUR_TWITTER_LINK)
-- Subscribe to our [Newsletter](YOUR_NEWSLETTER_LINK)
 
 ## License 📄
 
