@@ -23,14 +23,6 @@ If you are also cautiously optimistic about AI ethics and safety, and feel a sen
 
 This repository serves as a comprehensive collection of resources focused on Large Language Model (LLM) ethics and safety. Our goal is to foster a community that promotes responsible AI development while ensuring these powerful technologies align with human values.
 
-## Contents 📚
-
-- [Papers](resources/papers/README.md) - Academic research papers on LLM safety and ethics
-- [Articles](resources/articles/README.md) - Blog posts, news articles, and analyses
-- [Tools](resources/tools/README.md) - Software tools and libraries for LLM safety
-- [Datasets](resources/datasets/README.md) - Relevant datasets for research and testing
-- [Organizations](resources/organizations/README.md) - Key organizations working on AI safety
-- [Glossary](glossary.md) - Common terms in LLM safety and ethics
 
 ## Key Areas of Focus 🔍
 
@@ -152,6 +144,15 @@ This repository serves as a comprehensive collection of resources focused on Lar
 | Validation | Design new evaluation metrics |
 | Integration | Bridge theoretical insights with practical applications |
 
+## Contents 📚 (upcoming...)
+
+- [Papers](resources/papers/README.md) - Academic research papers on LLM safety and ethics
+- [Articles](resources/articles/README.md) - Blog posts, news articles, and analyses
+- [Tools](resources/tools/README.md) - Software tools and libraries for LLM safety
+- [Datasets](resources/datasets/README.md) - Relevant datasets for research and testing
+- [Organizations](resources/organizations/README.md) - Key organizations working on AI safety
+- [Glossary](glossary.md) - Common terms in LLM safety and ethics
+
 ## Contributing 🤝
 
 We welcome contributions from the community! Please read our [Contributing Guidelines](CONTRIBUTING.md) before submitting your contributions.
@@ -162,7 +163,7 @@ We welcome contributions from the community! Please read our [Contributing Guide
 4. Push to the branch
 5. Create a Pull Request
 
-## Community 👥 （latter...）
+## Community 👥 （upcoming...）
 
 - Join our [Discord Server](YOUR_DISCORD_LINK)
 
